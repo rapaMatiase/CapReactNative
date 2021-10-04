@@ -3,7 +3,7 @@ Cursos de capacitacion de react native
 
 ## Creando una nueva app
 
-    npx react-native init AwesomeProject
+    npx react-native init cryptoTracker
 
 Inicializando la app
 
@@ -15,4 +15,3 @@ Inicializando la app
 Intalar el navegador
 
     npm install @react-navigation/native @react-navigation/stack npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
-
